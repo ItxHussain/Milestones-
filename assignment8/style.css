@@ -1,0 +1,29 @@
+body {
+    align-items: center;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+#img1 {
+    margin-left: 10px;
+    height: 80px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+#navbar {
+    background-color:#5a9bd1;
+    border-radius: 15px;
+    width: 1080px;
+    margin-left: 80px;
+    height: 100px;
+    position: fixed;
+    display: flex;
+    align-items: end;
+    
+}
+
+#nav-a {
+    display: flex;
+}

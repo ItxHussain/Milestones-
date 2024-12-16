@@ -1,0 +1,79 @@
+
+body {
+    align-items: center;
+    margin: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table {
+    align-items: center;
+    border-collapse: separate;
+}
+
+#table2 {
+    margin-top: 25px;
+}
+
+tr {
+    border: 2px;
+}
+
+td {
+    align-items: center;
+    width: 75px;
+    height: 35px;
+    border: 2px solid #000000;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: 600;
+}
+
+#td1 {
+    height: 20px;
+}
+
+#clr1 {
+    background-color:coral;
+}
+
+#clr2 {
+    background-color:rgb(231, 110, 231);
+}
+
+#clr3 {
+    background-color: rgb(135, 121, 226);
+}
+
+#clr4 {
+    background-color: rgb(243, 239, 0);
+}
+
+#clr5 {
+    background-color: rgb(235, 182, 182);
+}
+
+#clr6 {
+    background-color: saddlebrown;
+}
+
+#clr7 {
+    background-color: green;
+}
+
+#clr8 {
+    background-color:rgb(235, 173, 16);
+}
+
+#clr9 {
+    background-color:cornflowerblue;
+}
+
+#clr10 {
+    background-color: rgb(253, 146, 108);
+}
